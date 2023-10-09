@@ -10,38 +10,28 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Linear Regression Model for Bike Demand
+- The Business goal here is to build a Regerrsion model by introspecting the data of a Bike sharing company and understand which variables influence more demand for bikes.
+- The Dataset being used is historical data of bike booking pre-covid
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Temperature (Temp): It's clear that temperature has a bearing on bike booking. Warmer temperature is preferred by customers - the company should launch some offers when the weather is good
+- Year: Year 2019 shows much better sales than 2018. This implies that post pandemic, customers would be keen to use bike for commuting
+- Season: Summer and Fall season are preferred by customers.
+- Weather: Customers avoided bad weather as in snow/rain as opposed to clear/cloudy weather.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
+- sklearn
+- math
 - library - version 3.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
 
 
 <!-- Optional -->
