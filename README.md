@@ -1,12 +1,11 @@
-# Project Name
-> Outline a brief description of your project.
+# Linear Regression
+> This project relates to a Bike Sharing company who wants to know how what are the parameters impacting the bike booking
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* Bike Sharing User case
+* Python and sklearn libraries
+* Variables impacting bike booking
 
 <!-- You can include any other section that is pertinent to your problem -->
 
